@@ -67,9 +67,11 @@
    </div>
 
 <h3>:fire: My Stats :</h3>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svitlanahavrylets)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svitlanahavrylets)](https://git.io/streak-stats)
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=svitlanahavrylets" alt="GitHub Streak" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svitlanahavrylets&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
 
 <!--
 **svitlanahavrylets/svitlanahavrylets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
