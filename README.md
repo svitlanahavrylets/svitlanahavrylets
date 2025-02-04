@@ -6,13 +6,14 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB3ZHpvOTFxY2VjZ2Qyd3N1dWhocWFrM2k5eGdnejNraWJybG5zeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="400"/>
   
 <div id="badges" align="center">
-   <a href="www.linkedin.com/in/svitlana-havrylets-1626a0316">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/svitlana-havrylets-1626a0316" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
    </a>
-   <a href="t.me/svitlana_havrylets">
-  <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white"/>
+   <a href="https://t.me/svitlana_havrylets" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white"/>
    </a>
 </div>
+
 
 <img src="https://komarev.com/ghpvc/?username=svitlanahavrylets&style=flat-square&color=blue" alt=""/>
 
@@ -26,8 +27,8 @@
 
 - :seedling: I love traveling in nature and staying active.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/svitlana-havrylets-1626a0316)
 </div>
+
 
 
 <h3>:hammer_and_wrench:Languages and Tools :</h3>
