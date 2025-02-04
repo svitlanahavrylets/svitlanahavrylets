@@ -66,6 +66,9 @@
 </div>
 </div>
 
+<h3>:fire: My Stats :</h3>
+https://github-readme-streak-stats.herokuapp.com/?user=svitlanahavrylets
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svitlanahavrylets&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **svitlanahavrylets/svitlanahavrylets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
