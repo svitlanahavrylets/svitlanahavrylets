@@ -32,7 +32,7 @@
 
 <h3>:hammer_and_wrench:Languages and Tools :</h3>
 <div align="center">
-<div >
+  <div >
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -63,12 +63,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-</div>
-</div>
+   </div>
+   </div>
 
 <h3>:fire: My Stats :</h3>
-https://github-readme-streak-stats.herokuapp.com/?user=svitlanahavrylets
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=svitlanahavrylets&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svitlanahavrylets)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=svitlanahavrylets)](https://git.io/streak-stats)
+
 
 <!--
 **svitlanahavrylets/svitlanahavrylets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
